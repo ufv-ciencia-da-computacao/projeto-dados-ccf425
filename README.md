@@ -2,7 +2,7 @@
 
 ## Grupo: 
 - Amanda Oliveira - ER05149
-- Otávio Santos - EF30890
+- Otávio Santos - EF03890
 - Germano Barcelos - EF03873
 - Thalita Mendonça - ER05141
 
