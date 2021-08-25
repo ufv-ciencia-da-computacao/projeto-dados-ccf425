@@ -1,10 +1,10 @@
 # Tema: Taxas de Rendimento Escolar no Brasil
 
 ## Grupo: 
-- Amanda Oliveira - ER5149
-- Otávio Santos - ER3890
-- Germano Barcelos - ER3873
-- Thalita Mendonça - ER5141
+- Amanda Oliveira - ER05149
+- Otávio Santos - EF03890
+- Germano Barcelos - EF03873
+- Thalita Mendonça - ER05141
 
 ## Perguntas 
 - Qual estado tem a maior taxa de abandono escolar? 
