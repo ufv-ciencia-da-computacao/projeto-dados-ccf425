@@ -8,10 +8,10 @@
 
 ## Perguntas 
 1. Qual estado tem a maior taxa de abandono escolar? 
-2. Se comparada com as taxas dos anos anteriores(2018/2019), qual o impacto a pandemia trouxe para a taxa de abandono escolar? Houve um aumento ou diminuição significativa?
-3. Se comparada com as taxas dos anos anteriores (2018/2019), qual o impacto a pandemia trouxe para a taxa de reprovação escolar? Houve um aumento ou diminuição significativa?
-4. Pode-se afirmar que o nível socioeconômico dos estudantes tem relação com as taxas de abandono escolar?([Dados 2019 - Dados INSE](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/nivel-socioeconomico))
-5. Em relação ao abandono escolar, o mesmo acontece mais em escolas públicas ou privadas?
+2. Se comparada com as taxas dos anos anteriores, qual o impacto a pandemia trouxe para a taxa de abandono escolar? Houve um aumento ou diminuição significativa?
+3. Em relação ao abandono escolar, o mesmo acontece mais em escolas públicas ou privadas?
+4. Se comparada com as taxas dos anos anteriores, qual o impacto a pandemia trouxe para a taxa de reprovação escolar? Houve um aumento ou diminuição significativa?
+5. Em relação à reprovação escolar, o mesmo acontece mais em escolas públicas ou privadas?
 
 6. Alunos do ensino médio de escolas privadas tiveram um desempenho melhor do que os alunos de escola pública em 2019? E em 2020? Houve um aumento ou uma queda dessa diferença entre alunos da escola pública e privada?
 7. Houve variação no número de horas-aula diária nos últimos 5 anos? ([Média de Horas-aula diária — Inep](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/media-de-horas-aula-diaria))
