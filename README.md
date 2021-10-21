@@ -6,6 +6,9 @@
 - Germano Barcelos - EF03873
 - Thalita Mendonça - ER05141
 
+## Vídeo da Apresentação
+- Acesse o [link](https://youtu.be/6BDZZBj3M2U);
+
 ## Perguntas 
 1. Qual estado tem a maior taxa de abandono escolar? 
 2. Se comparada com os anos anteriores, qual comportamento pode ser notado na taxa de abandono escolar?
