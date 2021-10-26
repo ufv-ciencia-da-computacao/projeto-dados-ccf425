@@ -9,6 +9,9 @@
 ## Vídeo da Apresentação
 - Acesse o [link](https://youtu.be/6BDZZBj3M2U);
 
+## Visualização do notebook
+- [Análise Preditiva](https://nbviewer.org/gist/gegen07/0cd27344d8eeeaf3fa567df68270c952#An%C3%A1lise-Preditiva)
+
 ## Perguntas 
 1. Qual estado tem a maior taxa de abandono escolar? 
 2. Se comparada com os anos anteriores, qual comportamento pode ser notado na taxa de abandono escolar?
